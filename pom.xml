@@ -18,6 +18,8 @@
     </properties>
 
 
+
+
     <dependencies>
 
         <dependency>
@@ -119,6 +121,17 @@
         </dependency>
 
     </dependencies>
+    
+    
+    
+    <developers>
+    <developer>
+    <name>Monica Diniz</name>
+    <email>monikadiniz@gmail.com</email>
+    </developer>
+    </developers>
+    
+    
     <build>
         <finalName>ingresso</finalName>
         <plugins>
